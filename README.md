@@ -2,7 +2,7 @@
 
 Welcome to the PWskills Landing Page project! This project is designed to give you hands-on experience with Tailwind CSS by building a visually appealing and responsive landing page for PWskills.
 
-**Live Demo
+**Live Demo** : https://pwskillsintailwind.netlify.app/
 
 # Project Overview
 **The PWskills landing page will include the following sections:**
